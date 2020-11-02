@@ -4,8 +4,7 @@
 <a href="https://instagram.com/yuhan.study"><img height="30" src="https://github.com/missystem/missystem/blob/main/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-### Hi there 👋
-<h2 align="center">My name is Yuhan Shi, you can call me Missy. 🤓</h2>
+<h2 align="center">Hi there 👋 My name is Yuhan Shi, you can call me Missy. 🤓</h2>
 <p align="center">I'm current studying in CIS & MATH at University of Oregon.</p>
 <!--
 **missystem/missystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
