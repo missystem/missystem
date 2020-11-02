@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hi there 👋 My name is Yuhan Shi, you can call me Missy 🤓</h2>
-<p align="center">I'm current studying in CIS & MATH at University of Oregon.   
+<p align="center">I'm current studying in CIS & MATH at University of Oregon. <br>  
 	I will be graduating in 2021 Spring with my bachelor degree in science.
 </p>
 
