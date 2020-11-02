@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:END -->
 
+<p align='center'>
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=missystem&show_icons=true&theme=radical)
+</p>
