@@ -4,8 +4,18 @@
 <a href="https://instagram.com/yuhan.study"><img height="30" src="https://github.com/missystem/missystem/blob/main/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Hi there 👋 My name is Yuhan Shi, you can call me Missy. 🤓</h2>
-<p align="center">I'm current studying in CIS & MATH at University of Oregon.</p>
+<h2 align="center">Hi there 👋 My name is Yuhan Shi, you can call me Missy 🤓</h2>
+<p align="center">I'm current studying in CIS & MATH at University of Oregon.
+	I will be graduating in 2021 Spring with my bachelor degree in science.
+</p>
+
+### Skills & Abilities
+- 💻 **Programming Languages:** Comfortable with Python, sometimes C/C++
+- 🔩 **Tools:** Mathematica | LaTeX | Linux | Git
+- 🎙 **Languages:** English | Chinese
+- ▶️ **Interests:** Reading, Hiking, Workout, Cooking, Traveling
+
+
 <!--
 **missystem/missystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +39,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=missystem&show_icons=true&theme=radical)
+
