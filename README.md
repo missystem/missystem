@@ -4,9 +4,9 @@
 <a href="https://instagram.com/yuhan.study"><img height="30" src="https://github.com/missystem/missystem/blob/main/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Hi there 👋 My name is Yuhan Shi, you can call me Missy 🤓</h2>
-<p align="center">I'm current studying in CIS & MATH at University of Oregon. <br>  
-	I will be graduating in 2021 Spring with my bachelor degree in science.
+<h2 align="center">Hi there 👋 My name is Yuhan 🤓</h2>
+<p align="center">I'm current studying in MSCS at Northwestern University. <br>  
+	I will be graduating in 2023 Summer with my master degree in Computer Science.
 </p>
 
 ### Skills & Abilities
