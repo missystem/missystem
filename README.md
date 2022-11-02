@@ -10,10 +10,10 @@
 </p>
 
 ### Skills & Abilities
-- 💻 **Programming Languages:** Comfortable with Python, sometimes C/C++
-- 🔩 **Tools:** Mathematica | LaTeX | Linux | Git
+- 💻 **Programming Languages:** Python | C | C++ | HTML/CSS | JavaScript | SQL | Shell Script | Assembly Language | Racket | Java
+- 🔩 **Tools:** Linux | Git | PostgreSQL | MySQL | REST APIs | Postman API | Mathematica | LaTeX | TensorFlow | Jupyter Notebook | JupyterLab | Google Colab | VS Code | PyCharm | Beautiful Soup | Scikit-learn | NumPy | Python pandas
 - 🎙 **Languages:** English | Chinese
-- ▶️ **Interests:** Reading, Hiking, Workout, Cooking, Traveling
+- ▶️ **Interests:** Reading, Hiking, Workout, Cooking, Traveling, Journaling
 
 
 <!--
