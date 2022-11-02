@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi there 👋 My name is Yuhan 🤓</h2>
 <p align="center">I'm current studying in MSCS at Northwestern University. <br>  
-	I will be graduating in 2023 Summer with my master degree in Computer Science.
+	will be graduating in June 2023 with my master degree in Computer Science.
 </p>
 
 ### Skills & Abilities
