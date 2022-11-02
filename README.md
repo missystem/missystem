@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hi there 👋 My name is Yuhan 🤓</h2>
-<p align="center">I'm current studying in MSCS at Northwestern University. <br>  
+<p align="center">I'm current studying in Computer Science at Northwestern University. <br>  
 	will be graduating in June 2023 with my master degree in Computer Science.
 </p>
 
